@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Xian Li / PhD Candidate"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -26,7 +26,7 @@ author:
   avatar           : "xian_pro.jpg"
   name             : "Xian Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "The good life is one inspired by love and guided by knowledge"
   location         : "Changsha,China"
   employer         : "Central South University"
   uri              : # URL
