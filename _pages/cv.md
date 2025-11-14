@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+📖Education
 ======
 * 2023-Now,  Ph.D in School of Geosciences and Info-physics, Central South University, Changsha, China.
 * 2017-2020, M.S. in Ningbo Institute of Materials Technology&Engineering(NIMTE),Chinese Academy of Sciences, University of Chinese Academy of Sciences(UCAS), Ningbo, China.
