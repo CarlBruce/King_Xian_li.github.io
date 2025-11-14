@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xian Li / PhD Candidate"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "carlbruce.github.io/King_Xian_li.github.io"
 author:
   # Biographic information
   avatar           : "xian_pro.jpg"
-  name             : "Xian Li"
+  name             : "Xian Li(李 现)"
   pronouns         : # example: "she/her"  
   bio              : "The good life is one inspired by love and guided by knowledge."
   location         : "Changsha,China"
