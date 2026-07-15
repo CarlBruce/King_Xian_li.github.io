@@ -22,7 +22,10 @@ For those users that need more advanced functionality, the template also support
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
--hi
+- hi
+- go
+- hello
+- hello
 
 Getting started
 ======
