@@ -24,9 +24,6 @@ For those users that need more advanced functionality, the template also support
 - [Plotly](https://plotly.com/javascript/) for plotting
 - hi
 - go
-- hello
-- hello
-- hello
 
 Getting started
 ======
