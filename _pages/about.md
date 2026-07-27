@@ -26,6 +26,7 @@ For those users that need more advanced functionality, the template also support
 - go
 - hello
 - hello
+- hello
 
 Getting started
 ======
