@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Xian Li(李现)-Homepage"
+title: "Xian Li(李现)-Homepage"
 author_profile: true
 redirect_from: 
   - /about/
