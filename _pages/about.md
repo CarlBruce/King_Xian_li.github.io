@@ -18,4 +18,4 @@ My research interests include image processing, machine and deep learning, compu
 
 🚀News and updates
 ======
-- **July 2026**: Personal homepage launched!
+- **July 2026**: The whole of science is nothing more than a refinement of everyday thinking!
